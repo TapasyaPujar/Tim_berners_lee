@@ -1,0 +1,54 @@
+body{
+    text-align:center;
+}
+#img1{
+    border-style: solid;
+    border-radius:40%;
+    height:300px;
+}
+#abc{
+   background-color:crimson;
+  color:white;
+  padding-bottom:20px;
+    padding-top: 100px;
+}
+#name{
+    font-size:45px;
+    color:cyan;
+    font-family: 'Akronim', cursive;
+    text-shadow:2px 2px black;
+}
+#bio{
+  background-color:crimson;
+  color:white;
+  margin:0;
+  padding:20px;
+  text-align:center;
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    width:100%;
+    z-index: 10;
+    cursor:pointer;
+    position:fixed;
+    margin-top: 0px;
+    background-color: bisque;
+}
+.links{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+color:black;
+    display: inline;
+}
+.links:hover{
+    font-size: 45px;
+    color:burlywood;
+    }
+#mail{
+    width:50px;
+    height:40px;
+}
